@@ -91,7 +91,7 @@ nav img{
     background: #f44336;
     transition: 1s; 
 }
-nav .fa-solid{
+nav .fa{
     display: none;
 }
 @media(max-width: 700px){
