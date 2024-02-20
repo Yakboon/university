@@ -175,3 +175,15 @@ h3{
 .course-col:hover{
     box-shadow: 0 0 20px 0px rgba(211, 11, 11, 0.2);
 }
+@media(max-width: 700px){
+    .row{
+        flex-direction: column;
+    }
+}
+/*------- campus ----*/
+.campus{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
