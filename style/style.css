@@ -212,3 +212,13 @@ h3{
     background: rgba(198, 98, 98, 0.7) ;
 
 }
+.layer{
+    width: 100%;
+    font-weight: 500;
+    color: #fff;
+    font-size: 26px;
+    bottom: 40%;
+    left: 50%;
+    transform: translate(-50%);
+    position: absolute;
+}
