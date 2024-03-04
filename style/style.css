@@ -358,8 +358,8 @@ h3{
 .about-us{
     width: 80%;
     margin: auto;
-    padding-top: 80%;
-    padding-bottom: 50%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 .about-col{
     flex-basis: 48%;
@@ -381,4 +381,8 @@ width: 100%;
     border:1px solid #f44336;
     background: transparent;
     color: #f44336;
+}
+.red-btn:hover{
+    color: #fff;
+
 }
